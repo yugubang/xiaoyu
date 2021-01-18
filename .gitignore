@@ -1,0 +1,4 @@
+# 忽略所有 .texwenjian1
+*.txt
+#忽略 text 文件夹下所有的文件
+text/
